@@ -1,2 +1,2 @@
-Kinan membuat halaman home
-Caca membuat halaman profile
+Kinan membuat halaman page1
+Caca membuat halaman page2
